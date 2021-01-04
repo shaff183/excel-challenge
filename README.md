@@ -1,2 +1,2 @@
 # excel-challenge
-Attempting to uncovering market trends from 4,000 past kickstarter projects through Excel. 
+Attempting to uncover market trends from 4,000 past kickstarter projects through Excel. 
